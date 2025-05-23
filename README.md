@@ -2,7 +2,6 @@
 
 This repository contains categorized solutions to various LeetCode problems, implemented in Python. The solutions are grouped by problem-solving techniques or data structures to make it easier to navigate.
 
----
 
 ## 📁 Folder Structure
 The repository is organized into folders based on problem categories:
